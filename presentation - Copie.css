@@ -1,0 +1,44 @@
+.conteneur {      
+        width:800px;/* taille en longueur du block */
+        height:756px ;/* taille en largeur du block */
+        border:1px solid black; /* taille des bordures du block */
+		   } /* le contenaire est le block où tous les éléments du site y sont */
+.flotteA {
+        float:relative;
+		height:450px;/* taille en largeur du block */
+        width:798px;/* taille en longueur du block */
+		margin-top:0px;
+		margin-left:0px;
+        background-color:#52A0FF;/* couleur du fond du block */
+        border:1px solid black;/* taille des bordures du block */
+	     } /* le flotte A correspond  */
+.flotteB{
+        float:relative;
+		height:200px;/* taille en largeur du block */
+        width:400px;/* taille en longueur du block */
+		margin-top:0px;
+		margin-left:0px;
+        background-color:#91A1DB;/* couleur du fond du block */
+        border:1px solid black;/* taille des bordures du block */
+	     }
+.flotteC{
+        float:relative;
+		height:200px;/* taille en largeur du block */
+        width:396px;/* taille en longueur du block */
+		margin-top:-202px;
+		margin-left:402px;
+        background-color:#91A1DB;/* couleur du fond du block */
+        border:1px solid black;/* taille des bordures du block */
+	     }
+.flotteD{
+        float:relative;
+		height:100px;/* taille en largeur du block */
+        width:798px;/* taille en longueur du block */
+		margin-top:0px;
+		margin-left:0px;
+        background-color:#E7A1DB;/* couleur du fond du block */
+        border:1px solid black;/* taille des bordures du block */
+	     }		 
+h1{
+text-align: center;} /* permet que le texte soit centré */
+
