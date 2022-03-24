@@ -7,8 +7,8 @@
         float:relative;
 		height:400px;/* taille en largeur du block */
         width:798px;/* taille en longueur du block */
-		margin-top:0px;
-		margin-left:0px;
+		margin-top:0px;/* précise l'espace entre la bordure haut et l'élément HTML */
+		margin-left:0px;/* précise l'espace entre la bordure gauche et l'élément HTML */
         background-color:#52A0FF;/* couleur du fond du block */
         border:1px solid black;/* taille des bordures du block */
 	     } /* le flotte A correspond  */
@@ -16,8 +16,8 @@
         float:relative;
 		height:150px;/* taille en largeur du block */
         width:400px;/* taille en longueur du block */
-		margin-top:0px;
-		margin-left:0px;
+		margin-top:0px;/* précise l'espace entre la bordure haut et l'élément HTML */
+		margin-left:0px;/* précise l'espace entre la bordure gauche et l'élément HTML */
         background-color:#91A1DB;/* couleur du fond du block */
         border:1px solid black;/* taille des bordures du block */
 	     }
@@ -25,8 +25,8 @@
         float:relative;
 		height:150px;/* taille en largeur du block */
         width:396px;/* taille en longueur du block */
-		margin-top:-152px;
-		margin-left:402px;
+		margin-top:-152px;/* précise l'espace entre la bordure haut et l'élément HTML */
+		margin-left:402px;/* précise l'espace entre la bordure gauche et l'élément HTML */
         background-color:#91A1DB;/* couleur du fond du block */
         border:1px solid black;/* taille des bordures du block */
 	     }
@@ -34,8 +34,8 @@
         float:relative;
 		height:100px;/* taille en largeur du block */
         width:798px;/* taille en longueur du block */
-		margin-top:0px;
-		margin-left:0px;
+		margin-top:0px;/* précise l'espace entre la bordure haut et l'élément HTML */
+		margin-left:0px;/* précise l'espace entre la bordure gauche et l'élément HTML */
         background-color:#E7A1DB;/* couleur du fond du block */
         border:1px solid black;/* taille des bordures du block */
 	     }		 
