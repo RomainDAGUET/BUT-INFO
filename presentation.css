@@ -1,11 +1,11 @@
 .conteneur {      
         width:800px;/* taille en longueur du block */
-        height:655px ;/* taille en largeur du block */
+        height:606px ;/* taille en largeur du block */
         border:1px solid black; /* taille des bordures du block */
 		   } 
 .flotteA {
         float:relative;
-		height:400px;/* taille en largeur du block */
+		height:350px;/* taille en largeur du block */
         width:798px;/* taille en longueur du block */
 		margin-top:0px;/* précise l'espace entre la bordure haute et l'élément HTML */
 		margin-left:0px;/* précise l'espace entre la bordure gauche et l'élément HTML */
