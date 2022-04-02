@@ -1,6 +1,6 @@
 .conteneur {      
         width:1200px;
-        height:2450px ;
+        height:2490px ;
 		
         border:1px solid black;
 		background-color:#00BFFF;
@@ -8,8 +8,8 @@
 .flotteB {
         float:relative;
 
-		width:1199px;
-		height:2240px;
+		width:1198px;
+		height:2408px;
 		
 		margin-top:0px;
 		margin-left:0px;
